@@ -35,17 +35,6 @@ hr{
   width: 10px;
 }
 
-#s-m-t-tooltip{
-  position:absolute;
-  margin-top: 15px;
-  z-index:9999;color:#eee;font-size:9px;
-  background:white;padding:3px;font-style:italic;
-  border-bottom:1px solid #eee;
-  -webkit-box-shadow: 1px 1px 8px 1px rgba(247,247,247,1);
-  -moz-box-shadow: 1px 1px 8px 1px rgba(247,247,247,1);
-  box-shadow: 1px 1px 8px 1px rgba(247,247,247,1);
-
-}
 ::-webkit-scrollbar-track {
   background: #f1f1f1;
 }
