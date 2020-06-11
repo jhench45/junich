@@ -939,11 +939,11 @@ form{
 #footerlinks li a{ 
   color:white;
   letter-spacing: 2px;
-  transition:1s ease;
-}
+  transition:0.2s ease-in;
+} 
 #footerlinks li a:hover{ 
   color:black;
-  transition:1s ease;
+  transition:0.2s ease-in;
 }
 li.una{ 
   background-color:#3e3c3e;
