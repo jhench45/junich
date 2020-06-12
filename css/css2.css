@@ -107,7 +107,24 @@ hr{
 .carousel-caption{
 	margin-bottom:220px;
 }
-
+#s-m-t-tooltip {
+  display: block;
+  margin: 15px;
+  color:var(--accent);
+  background:var(--text);
+  font:0.80em 'Poppins', sans-serif;
+  font-weight:600;
+  text-align:center;
+  border-radius:3px;
+  padding:4px;
+  margin-left:25px;
+  letter-spacing:1px;
+  text-transform: uppercase;
+  line-height:130%;
+  min-width:40px;
+  max-width:150px;
+  z-index: 9999999999;
+}
 .carousel-caption h2{
 	font-size:50px;
 	text-transform: uppercase;
